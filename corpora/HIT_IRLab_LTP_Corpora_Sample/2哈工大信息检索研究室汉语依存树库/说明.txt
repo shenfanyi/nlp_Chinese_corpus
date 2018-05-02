@@ -1,0 +1,70 @@
+	      哈工大信息检索研究室汉语依存树库简介
+	      
+本开放资源包括两部分：
+（1）中文名称：哈工大信息检索研究室汉语依存树库，英文名称：HIT IR-Lab Chinese Dependency Treebank
+（2）中文名称：哈工大信息检索研究室汉语骨架依存树库，英文名称：HIT IR-Lab Chinese Skeletal Dependency Treebank
+
+
+(1)词性标注说明：
+    词性标注采用863的标注体系，以下是其符号的解释，
+a 形容词
+b 区别词
+c 连词
+d 副词
+e 叹词
+g 语素字
+h 前接成分
+i 习用语
+j 简称
+k 后接成分
+m 数词
+n 名词
+nd 方位名词
+nh 人名
+ni 团体、机构、组织的专名
+nl 处所名词
+ns 地名
+nt 时间名词
+nz 其它专名
+o 拟声词
+p 介词
+q 量词
+r 代词
+u 助词
+v 动词
+wp 标点
+ws 字符串
+x 非语素字
+
+(2)依存关系标注说明：
+	本标注规范共有依存关系类型24种：
+定中关系ATT（attribute）
+数量关系QUN（quantity）
+并列关系COO（coordinate）
+同位关系APP（appositive）
+前附加关系LAD（left adjunct）
+后附加关系RAD（right adjunct）
+动宾关系VOB（verb-object）
+介宾关系POB（preposition-object）
+主谓关系SBV（subject-verb）
+比拟关系SIM（similarity）
+核心HED（head）
+连谓结构VV（verb-verb）
+关联结构CNJ（conjunctive）
+语态结构MT（mood-tense）
+独立结构IS（independent structure）
+状中结构ADV（adverbial）
+动补结构CMP（complement）
+“的”字结构DE
+“地”字结构DI
+“得”字结构DEI
+“把”字结构BA
+“被”字结构BEI
+独立分句IC（independent clause）
+依存分句DC（dependent clause）
+
+
+    另外，我们提供了树库的观察工具nlp_style.xsl，以便于直观地观察句子的依存树，使用时只需用基于IE内核的浏览器（如IE,Maxthon,腾讯浏览器等）打开树库的xml文件，在“选择显示内容”中选择“句法分析”即可。
+
+
+    欢迎访问我们的主页：www.ir-lab.org
