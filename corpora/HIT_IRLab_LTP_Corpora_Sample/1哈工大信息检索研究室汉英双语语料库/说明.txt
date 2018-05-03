@@ -1,5 +1,0 @@
-中文名称：
-	哈工大信息检索研究室汉英双语语料库
-
-英文名称：
-	HIT IR-lab Chinese-English Bilingual Corpus

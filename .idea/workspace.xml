@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15aa1b2b-4e6b-4f62-83fd-4a71cbc30074" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/1哈工大信息检索研究室汉英双语语料库/哈工大信息检索研究室汉英双语语料库_样例.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/1哈工大信息检索研究室汉英双语语料库/说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/2哈工大信息检索研究室汉语依存树库/nlp_style.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/2哈工大信息检索研究室汉语依存树库/哈工大信息检索研究室汉语依存树库_样例.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/2哈工大信息检索研究室汉语依存树库/哈工大信息检索研究室汉语骨架依存树库_样例.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/2哈工大信息检索研究室汉语依存树库/说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/3哈工大信息检索研究室同义词词林扩展版/哈工大信息检索研究室同义词词林扩展版_样例.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/3哈工大信息检索研究室同义词词林扩展版/哈工大信息检索研究室同义词词林扩展版说明.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/3哈工大信息检索研究室同义词词林扩展版/词义标注语料的说明.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/3哈工大信息检索研究室同义词词林扩展版/词性-词义_合并结果_样例.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/4哈工大信息检索研究室问答系统问题集/nlp_style.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/4哈工大信息检索研究室问答系统问题集/question_XML_Sample.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/4哈工大信息检索研究室问答系统问题集/说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/奥运/abs京奥运：TOP计划离中国有多远？.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/奥运/abs北京2008年奥运会市场开发计划启动 .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/奥运/abs北京市“两会”代表委员共话奥运与发展.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/奥运/abs奥林匹克与文化.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/奥运/abs市民改出奥运规划5亮点.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/奥运/abs谨防“奥运低谷”.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/应用文/abs中共河北省委关于开除刘青山、张子善党籍的决议.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/应用文/abs讣 告.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/议论文/abs关于学习科技知识.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/议论文/abs分析：中国开展登月计划的意义 .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/议论文/abs左派和右派.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/议论文/abs正义.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/议论文/abs论西部大开发中的教育优先发展.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/记叙文/abs台湾破获首宗外国人刺探军事机密案 逮捕十多人.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/记叙文/abs美媒体曝光以色列“三位一体”核力量完全内幕.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/记叙文/abs航天员可能14日敲定 现场观众目击时间达3分钟.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/记叙文/abs韩国总理带头撂挑子 总统要公投化解危机.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/说明文/abs21世纪的早晨穿出蛋白丝之感受.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/说明文/abs4到12岁孩子的饮食.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/说明文/abs什么是网格计算.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/1/说明文/abs江东桥探秘.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/奥运/abs京奥运：TOP计划离中国有多远？.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/奥运/abs北京2008年奥运会市场开发计划启动.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/奥运/abs北京市“两会”代表委员共话奥运与发展.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/奥运/abs奥林匹克与文化.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/奥运/abs市民改出奥运规划5亮点.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/奥运/abs谨防“奥运低谷”.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/应用文/abs中共河北省委关于开除刘青山、张子善党籍的决议.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/应用文/abs讣 告.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/议论文/abs关于学习科技知识.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/议论文/abs分析：中国开展登月计划的意义.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/议论文/abs左派和右派.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/议论文/abs正义.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/议论文/abs论西部大开发中的教育优先发展.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/记叙文/abs台湾破获首宗外国人刺探军事机密案 逮捕十多人.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/记叙文/abs美媒体曝光以色列“三位一体”核力量完全内幕.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/记叙文/abs航天员可能14日敲定 现场观众目击时间达3分钟.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/记叙文/abs韩国总理带头撂挑子 总统要公投化解危机.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/说明文/abs21世纪的早晨穿出蛋白丝之感受.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/说明文/abs4到12岁孩子的饮食.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/说明文/abs什么是网格计算.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/2/说明文/abs江东桥探秘.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/奥运/abs京奥运：TOP计划离中国有多远？.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/奥运/abs北京2008年奥运会市场开发计划启动 .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/奥运/abs北京市“两会”代表委员共话奥运与发展.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/奥运/abs奥林匹克与文化.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/奥运/abs市民改出奥运规划5亮点.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/奥运/abs谨防“奥运低谷”.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/应用文/abs中共河北省委关于开除刘青山、张子善党籍的决议.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/应用文/abs讣 告.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/议论文/abs关于学习科技知识.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/议论文/abs分析：中国开展登月计划的意义.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/议论文/abs左派和右派.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/议论文/abs正义.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/议论文/abs论西部大开发中的教育优先发展.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/记叙文/abs台湾破获首宗外国人刺探军事机密案 逮捕十多人.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/记叙文/abs美媒体曝光以色列“三位一体”核力量完全内幕.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/记叙文/abs航天员可能14日敲定 现场观众目击时间达3分钟.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/记叙文/abs韩国总理带头撂挑子 总统要公投化解危机.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/说明文/abs21世纪的早晨穿出蛋白丝之感受.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/说明文/abs4到12岁孩子的饮食.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/说明文/abs什么是网格计算.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/3/说明文/abs江东桥探秘.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/奥运/abs京奥运：TOP计划离中国有多远？.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/奥运/abs北京2008年奥运会市场开发计划启动.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/奥运/abs北京市“两会”代表委员共话奥运与发展.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/奥运/abs奥林匹克与文化.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/奥运/abs市民改出奥运规划5亮点.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/奥运/abs谨防“奥运低谷”.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/应用文/abs中共河北省委关于开除刘青山、张子善党籍的决议.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/应用文/abs讣 告.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/议论文/abs关于学习科技知识.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/议论文/abs分析：中国开展登月计划的意义.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/议论文/abs左派和右派.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/议论文/abs正义.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/议论文/abs论西部大开发中的教育优先发展.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/记叙文/abs台湾破获首宗外国人刺探军事机密案 逮捕十多人.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/记叙文/abs美媒体曝光以色列“三位一体”核力量完全内幕.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/记叙文/abs航天员可能14日敲定 现场观众目击时间达3分钟.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/记叙文/abs韩国总理带头撂挑子 总统要公投化解危机.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/说明文/abs21世纪的早晨穿出蛋白丝之感受.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/说明文/abs4到12岁孩子的饮食.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/说明文/abs什么是网格计算.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/4/说明文/abs江东桥探秘.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/奥运/abs京奥运：TOP计划离中国有多远？.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/奥运/abs北京2008年奥运会市场开发计划启动 .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/奥运/abs北京市“两会”代表委员共话奥运与发展.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/奥运/abs奥林匹克与文化.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/奥运/abs市民改出奥运规划5亮点.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/奥运/abs谨防“奥运低谷”.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/应用文/abs中共河北省委关于开除刘青山、张子善党籍的决议.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/应用文/abs讣 告.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/议论文/abs关于学习科技知识.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/议论文/abs分析：中国开展登月计划的意义 .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/议论文/abs左派和右派.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/议论文/abs正义.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/议论文/abs论西部大开发中的教育优先发展.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/记叙文/abs台湾破获首宗外国人刺探军事机密案 逮捕十多人.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/记叙文/abs美媒体曝光以色列“三位一体”核力量完全内幕.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/记叙文/abs航天员可能14日敲定 现场观众目击时间达3分钟.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/记叙文/abs韩国总理带头撂挑子 总统要公投化解危机.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/说明文/abs21世纪的早晨穿出蛋白丝之感受.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/说明文/abs4到12岁孩子的饮食.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/说明文/abs什么是网格计算.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/5/说明文/abs江东桥探秘.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/5哈工大信息检索研究室单文档自动文摘语料库/说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/朝鲜核问题/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/朝鲜核问题/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/朝鲜核问题/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/朝鲜核问题/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/朝鲜核问题/5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/朝鲜核问题/6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/法国油轮爆炸/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/法国油轮爆炸/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/法国油轮爆炸/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/法国油轮爆炸/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/法国油轮爆炸/5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/法国油轮爆炸/6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/法国油轮爆炸/7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/航天专家海口被杀/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/航天专家海口被杀/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/航天专家海口被杀/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/航天专家海口被杀/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/航天专家海口被杀/5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/航天专家海口被杀/6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/菲律宾南部城市连环爆炸/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/菲律宾南部城市连环爆炸/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/菲律宾南部城市连环爆炸/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/菲律宾南部城市连环爆炸/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/菲律宾南部城市连环爆炸/5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/菲律宾南部城市连环爆炸/6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/HIT_IRLab_LTP_Corpora_Sample/6哈工大信息检索研究室多文档自动文摘语料库/说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/Hillary_emails/Aliases.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/Hillary_emails/EmailReceivers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/Hillary_emails/Emails.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/Hillary_emails/Persons.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/Hillary_emails/database.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpora/Hillary_emails/hashes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp.py" beforeDir="false" afterPath="$PROJECT_DIR$/nlp.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="nlp.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nlp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#41#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nlp.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="410" />
+    <option name="y" value="79" />
+    <option name="width" value="1468" />
+    <option name="height" value="957" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nlp_paragragh_structure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp_paragragh_structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="nlp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="nlp_paragragh_structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nlp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.nlp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15aa1b2b-4e6b-4f62-83fd-4a71cbc30074" name="Default" comment="" />
+      <created>1525231214586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525231214586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="410" y="79" width="1468" height="957" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17506813" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32979977" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info active="true" anchor="right" id="Run" order="3" visible="true" weight="0.3678474" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Message" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#41#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="e#41#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#41#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
